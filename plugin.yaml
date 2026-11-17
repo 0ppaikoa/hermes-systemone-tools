@@ -1,0 +1,7 @@
+name: hermes-systemone-tools
+kind: standalone
+version: 0.1.0
+description: The decide tool for the System 1 decision API
+author: AokiApp
+provides_tools:
+  - decide
